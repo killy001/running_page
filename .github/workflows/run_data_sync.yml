@@ -24,7 +24,7 @@ env:
   TITLE: Tomcat的猫 Running
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
-  GITHUB_NAME: Killy
+  GITHUB_NAME: killy001
   GITHUB_EMAIL: 2512670071@qq.com
 
 jobs:
